@@ -1,7 +1,5 @@
 # TutorialRaider
-this is for tutorial videos
+This is for tutorial videos
 
-
-
-part 1 | https://youtu.be/OXkhJsxynjw?si=6_wxov0LNFZLo5zf
-part 2 | https://www.youtube.com/watch?v=OXkhJsxynjw
+**Part 1** | [Here](https://youtu.be/OXkhJsxynjw?si=6_wxov0LNFZLo5zf)  
+**Part 2** | [Here](https://www.youtube.com/watch?v=OXkhJsxynjw)
